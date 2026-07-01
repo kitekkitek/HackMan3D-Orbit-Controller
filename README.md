@@ -92,6 +92,12 @@ If you build your own controller or improve the project, feel free to share it w
 
 ---
 
+## Disclaimer
+
+This is an independent open-source DIY project and is not affiliated with or endorsed by 3Dconnexion.
+
+---
+
 ## Credits
 
 Designed by **Hackman3D**
