@@ -196,7 +196,7 @@ This is an independent open-source DIY project and is not affiliated with or end
 
 Designed by **HackMan3D**
 
-Slicer mouse mode testing and feedback by [Kitek](https://www.crealitycloud.com/user/7734397320).
+Additional features, testing, and feedback by [Kitek](https://www.crealitycloud.com/user/7734397320).
 
 This project is released free of charge for the maker community.
 
